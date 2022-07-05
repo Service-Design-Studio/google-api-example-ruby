@@ -8,6 +8,7 @@ These folders provide some examples on how to use Google Cloud REST API using Ru
 1. You will need to enable these two API:
     - Cloud Vision API
     - Cloud Translation API 
+    - Cloud Natural Language API
 1. Create API Key from "API & Services" -> "Credentials"
 
 Once, you have the API Keys, do the following in your terminal (Unix-based):

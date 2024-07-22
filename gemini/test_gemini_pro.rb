@@ -2,9 +2,9 @@ require 'uri'
 require 'net/http'
 require 'json'
 
-PROJECT_ID = "qwiklabs-gcp-00-88e7ae383591"
-LOCATION = "us-central1"
-MODEL_ID = "gemini-1.0-pro"
+# PROJECT_ID = "qwiklabs-gcp-00-88e7ae383591"
+# LOCATION = "us-central1"
+# MODEL_ID = "gemini-1.0-pro"
 API_KEY = "Enter your API KEY HERE"
 
 # enable generative language API
